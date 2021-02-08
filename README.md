@@ -14,10 +14,10 @@ We will be using UCI dataset which consists of 76 attributes, but all published 
 Each element plays important role towards the detection and recognition of the disease like age plays a very important role.
 
 ## TECHNIQUES:
-	To solve this problem we are going to use different classifiers such as SVM, Naive Bayes, Logistic Regression, Decision Tree and Random Forest. We can train our prediction model by separating existing data since we certainly know whether each patient has heart disease. This collaboration is generally called oversight and learning. The trained model is then used to anticipate if customers experience the evil impacts of heart disease. Regardless, data is isolated into two areas using part separating. In this experiment, data is part established on an extent of 80:20 for the training set and the prediction set. The training set data is used in the logistic regression fragment for model training, while the prediction set data is used in the prediction portion.
+To solve this problem we are going to use different classifiers such as SVM, Naive Bayes, Logistic Regression, Decision Tree and Random Forest. We can train our prediction model by separating existing data since we certainly know whether each patient has heart disease. This collaboration is generally called oversight and learning. The trained model is then used to anticipate if customers experience the evil impacts of heart disease. Regardless, data is isolated into two areas using part separating. In this experiment, data is part established on an extent of 80:20 for the training set and the prediction set. The training set data is used in the logistic regression fragment for model training, while the prediction set data is used in the prediction portion.
 
 ## RESULTS:
-	Results obtained using all the algorithms above mentioneed.
+Results obtained using all the algorithms above mentioneed.
 	
 ### Single Vector Machine (SVM):
 ![GitHub Logo](/images/svm.png)
